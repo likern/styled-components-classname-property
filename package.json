@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@breeffy/react-native-svg-icons": "^0.4.1",
-    "@fortawesome/fontawesome-svg-core": "1.2.26",
-    "@fortawesome/free-regular-svg-icons": "^5.12.1",
-    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/fontawesome-svg-core": "1.2.30",
+    "@fortawesome/free-regular-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@types/styled-components": "5.0.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
